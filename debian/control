@@ -1,0 +1,17 @@
+Source: kodi-game-libretro-potator
+Priority: extra
+Maintainer: wsnipex <wsnipex@a1.net>
+Build-Depends: debhelper (>= 9.0.0),
+               cmake,
+               kodi-addon-dev,
+               libretro-potator (>= 1.0.5) | potator (>= 1.0.5)
+Standards-Version: 3.9.8
+Section: libs
+
+Package: kodi-game-libretro-potator
+Section: libs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, kodi, kodi-game-libretro
+Enhances: kodi
+Description: Watara - Supervision (Potator) core for kodi's retroplayer
+ Watara - Supervision (Potator) core for kodi's retroplayer
