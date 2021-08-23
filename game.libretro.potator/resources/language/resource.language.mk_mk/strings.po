@@ -16,6 +16,16 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n==1 || n%10==1 ? 0 : 1;\n"
 
+msgctxt "Addon Summary"
+msgid "Watara - Supervision (Potator) 1.0.5 "
+msgstr ""
+
+msgctxt "Addon Description"
+msgid "Potator is a Watara SuperVision emulator.
+
+Supported files: .bin, .sv"
+msgstr ""
+
 msgctxt "#30000"
 msgid "Settings"
 msgstr ""
