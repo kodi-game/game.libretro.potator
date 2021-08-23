@@ -21,9 +21,7 @@ msgid "Watara - Supervision (Potator) 1.0.5 "
 msgstr ""
 
 msgctxt "Addon Description"
-msgid "Potator is a Watara SuperVision emulator.
-
-Supported files: .bin, .sv"
+msgid "Potator is a Watara SuperVision emulator.Supported files: .bin, .sv"
 msgstr ""
 
 msgctxt "#30000"
