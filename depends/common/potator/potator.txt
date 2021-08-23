@@ -1,1 +1,1 @@
-potator https://github.com/libretro/potator/archive/7ffa0711c84f24b217a04d2be411132f385a8076.tar.gz
+potator https://github.com/libretro/potator/archive/1327cd6f10ed50b998ecc41a927240929e71a4b7.tar.gz
