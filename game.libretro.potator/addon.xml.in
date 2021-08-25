@@ -18,6 +18,6 @@
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.potator</source>
 		<summary lang="en_GB">Watara - Supervision (Potator) 1.0.5 </summary>
-		<description lang="en_GB">Potator is a Watara SuperVision emulator.Supported files: .bin, .sv</description>
+		<description lang="en_GB">Potator is a Watara SuperVision emulator.[CR][CR]To use this emulator, you must have compatibles ROMs with .sv and .bin extensions.</description>
 	</extension>
 </addon>
