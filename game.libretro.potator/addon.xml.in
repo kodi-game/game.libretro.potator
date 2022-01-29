@@ -22,7 +22,7 @@
 			<icon>resources/icon.png</icon>
 		</assets>
 		<summary lang="en_GB">Watara - Supervision (Potator) 1.0.5 </summary>
-		<description lang="da_DK">Potator er en Watara SuperVision-emulator.[CR][CR]For at bruge denne emulator skal du have kompatible ROM'er med .sv- og .bin-udvidelser.</description>
+		<description lang="da_DK">Potator er en Watara SuperVision-emulator.[CR][CR]For at bruge denne emulator skal du have kompatible ROM&apos;er med .sv- og .bin-udvidelser.</description>
 		<description lang="en_GB">Potator is a Watara SuperVision emulator.[CR][CR]To use this emulator, you must have compatibles ROMs with .sv and .bin extensions.</description>
 		<description lang="zh_CN">Potator 是 Watara SuperVision 模拟器。[CR][CR]需要有扩展名为 .sv 和 .bin 的兼容 ROM 才能使用此模拟器。</description>
 	</extension>
