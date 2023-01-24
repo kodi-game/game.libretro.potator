@@ -15,7 +15,7 @@ Public Domain
 
 ### Icon
 
-![Icon](game.libretro.potator/resources/icon.png)
+![Watara - Supervision (Potator) icon](game.libretro.potator/resources/icon.png)
 
 ### Fanart
 
