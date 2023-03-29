@@ -1,6 +1,3 @@
-[![Build Status](https://travis-ci.org/kodi-game/game.libretro.potator.svg?branch=master)](https://travis-ci.org/kodi-game/game.libretro.potator)
-[![Build Status](https://ci.appveyor.com/api/projects/status/github/kodi-game/game.libretro.potator?svg=true)](https://ci.appveyor.com/project/kodi-game/game-libretro-potator)
-
 # Watara - Supervision (Potator)
 
 ### Description
