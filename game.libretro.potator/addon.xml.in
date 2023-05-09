@@ -21,6 +21,7 @@
 		<assets>
 			<icon>resources/icon.png</icon>
 		</assets>
+		<summary lang="da_DK">Watara - Supervision (Potator)</summary>
 		<summary lang="en_GB">Watara - Supervision (Potator)</summary>
 		<summary lang="es_ES">Watara - Supervision (Potator)</summary>
 		<description lang="da_DK">Potator er en Watara SuperVision-emulator.[CR][CR]For at bruge denne emulator skal du have kompatible ROM&apos;er med .sv- og .bin-udvidelser.</description>
