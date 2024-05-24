@@ -31,6 +31,7 @@
 		<description lang="en_GB">Potator is a Watara SuperVision emulator.[CR][CR]To use this emulator, you must have compatibles ROMs with .sv and .bin extensions.</description>
 		<description lang="es_ES">Potator es un emulador de Watara SuperVision[CR][CR]Para usar este emulador, debes tener ROMs compatibles con extensiones .sv y .bin.</description>
 		<description lang="it_IT">Potator è un emulatore Watara SuperVision.[CR][CR]Per utilizzare questo emulatore, è necessario disporre di ROM compatibili con estensioni .sv e .bin.</description>
+		<description lang="sl_SI">Potator je emulator Watara SuperVision.[CR][CR]Če želite uporabljati ta emulator, morate imeti združljive ROM-e s končnicami .sv in .bin.</description>
 		<description lang="zh_CN">Potator 是 Watara SuperVision 模拟器。[CR][CR]需要有扩展名为 .sv 和 .bin 的兼容 ROM 才能使用此模拟器。</description>
 	</extension>
 </addon>
