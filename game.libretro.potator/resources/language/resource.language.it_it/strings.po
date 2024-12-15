@@ -25,10 +25,6 @@ msgctxt "Addon Description"
 msgid "Potator is a Watara SuperVision emulator.[CR][CR]To use this emulator, you must have compatibles ROMs with .sv and .bin extensions."
 msgstr "Potator è un emulatore Watara SuperVision.[CR][CR]Per utilizzare questo emulatore, è necessario disporre di ROM compatibili con estensioni .sv e .bin."
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "Impostazioni"
-
 msgctxt "#30001"
 msgid "Internal Palette"
 msgstr "Tavolozza interna"
@@ -44,3 +40,7 @@ msgstr "Salto fotogrammi"
 msgctxt "#30004"
 msgid "Frameskip Threshold (%)"
 msgstr "Soglia di salto fotogrammi (%)"
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "Impostazioni"
