@@ -27,6 +27,7 @@
 		<summary lang="es_ES">Watara - Supervision (Potator)</summary>
 		<summary lang="ga">Watara - Maoirseacht (Prátaí)</summary>
 		<summary lang="it_IT">Watara - Supervision (Potator)</summary>
+		<summary lang="ru_RU">Watara — Supervision (Potator)</summary>
 		<summary lang="sv_SE">Watara - Supervision (Potator)</summary>
 		<summary lang="zh_CN">Watara - Supervision (Potator)</summary>
 		<description lang="da_DK">Potator er en Watara SuperVision-emulator.[CR][CR]For at bruge denne emulator skal du have kompatible ROM&apos;er med .sv- og .bin-udvidelser.</description>
@@ -35,6 +36,7 @@
 		<description lang="es_ES">Potator es un emulador de Watara SuperVision[CR][CR]Para usar este emulador, debes tener ROMs compatibles con extensiones .sv y .bin.</description>
 		<description lang="ga">Is aithriseoir Watara SuperVision é Potator.[CR][CR]Chun an aithriseoir seo a úsáid, ní mór ROManna comhoiriúnacha a bheith agat le síntí .sv agus .bin.</description>
 		<description lang="it_IT">Potator è un emulatore Watara SuperVision.[CR][CR]Per utilizzare questo emulatore, è necessario disporre di ROM compatibili con estensioni .sv e .bin.</description>
+		<description lang="ru_RU">Potator — это эмулятор Watara SuperVision.[CR][CR]Для использования этого эмулятора у вас должны быть совместимые ROM-файлы с расширениями .sv и .bin.</description>
 		<description lang="sl_SI">Potator je emulator Watara SuperVision.[CR][CR]Če želite uporabljati ta emulator, morate imeti združljive ROM-e s končnicami .sv in .bin.</description>
 		<description lang="sv_SE">Potator är en Watara SuperVision-emulator.[CR][CR]För att använda den här emulatorn måste du ha kompatibla ROM med .sv- och .bin-tillägg.</description>
 		<description lang="zh_CN">Potator 是 Watara SuperVision 模拟器。[CR][CR]需要有扩展名为 .sv 和 .bin 的兼容 ROM 才能使用此模拟器。</description>
